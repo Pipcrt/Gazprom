@@ -1,1 +1,1 @@
-gazprom [gazprom](https://pipcrt.github.io/gazprom/)
+[gazprom](https://pipcrt.github.io/gazprom/)
